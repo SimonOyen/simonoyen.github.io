@@ -1,16 +1,32 @@
-### Hi there 👋
+# Repository Content
+## Personal Stuff
+### This Repository
+* <ttps://github.com/SimonOyen/SimonOyen>
 
-<!--
-**SimonOyen/SimonOyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 100 Days Of Code
+* <https://github.com/SimonOyen/Markdown-Previewer>
+* <https://github.com/SimonOyen/Markdown-Previewer-Nuxt>
+* <https://github.com/SimonOyen/nextjs-Tutorial-Blog>
+* <https://github.com/SimonOyen/Calculator>
 
-Here are some ideas to get you started:
+### FlashCards Project
+* <https://github.com/SimonOyen/FlashCardsAPI>
+* <https://github.com/SimonOyen/FlashCardsFrontend>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### University
+**Master**
+* <https://github.com/SimonOyen/SWA-DSL>
+* <https://github.com/SimonOyen/Machine-Learning>
+* <https://github.com/SimonOyen/Algorithmen-und-Komplexitaet>
+* <https://github.com/SimonOyen/Data-Science-from-Scratch>
+* <https://github.com/SimonOyen/Programmier-Paradigmen>
+* <https://github.com/SimonOyen/PMQM>
+
+**Bachelor**:
+* <https://github.com/SimonOyen/Bachelorarbeit>
+
+### Other Projects
+* <https://github.com/SimonOyen/NutriaCamera>
+* <https://github.com/SimonOyen/Moodboard-API>
+* <https://github.com/SimonOyen/Testmanager-Client>
+* <https://github.com/SimonOyen/CSharp-8-Book>
