@@ -1,7 +1,7 @@
 # Repository Content
 ## Personal Stuff
 ### This Repository
-* <ttps://github.com/SimonOyen/SimonOyen>
+* <https://github.com/SimonOyen/SimonOyen>
 
 ### 100 Days Of Code
 * <https://github.com/SimonOyen/Markdown-Previewer>
